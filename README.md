@@ -19,6 +19,13 @@ This project analyzes **climate variability from 1950–2023** using statistical
 
 ---
 
+## 📄 Project Report
+
+You can read the full detailed report here:  
+[📘 **Climate Variability and Large-Scale Pattern Analysis - Report**](Climate_Variability_Report.pdf)
+
+The report includes methodology, data preprocessing, EOF analysis results, and visual interpretation of major climate indices.
+
 ## ⚙️ Methodology
 1. Import and preprocess netCDF data.  
 2. Detrend and standardize time series.  
